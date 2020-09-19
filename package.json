@@ -20,7 +20,7 @@
     "instagram-automation"
   ],
   "author": "Joe Dutra <Orkestral>",
-  "license": "Apache",
+  "license": "MIT",
   "dependencies": {
     "puppeteer": "^5.2.1"
   },
