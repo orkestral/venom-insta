@@ -24,8 +24,7 @@
 ## Getting started
 
 ```javascript
-// Supports ES6
-// import { create, Whatsapp } from '@s2click/venom';
+
 const venom = require('venom-insta');
 
 (async () => {
