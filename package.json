@@ -1,0 +1,31 @@
+{
+  "name": "venom-insta",
+  "version": "1.0.0",
+  "description": "Venom is a high-performance system developed with JavaScript to create a bot for Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkestral/venom-insta.git"
+  },
+  "keywords": [
+    "instagram",
+    "instagram-bot",
+    "bot",
+    "automation",
+    "venom-bot",
+    "venom",
+    "instagram-automation"
+  ],
+  "author": "Joe Dutra <Orkestral>",
+  "license": "Apache",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/orkestral/venom-insta/issues"
+  },
+  "homepage": "https://github.com/orkestral/venom-insta#readme"
+}
